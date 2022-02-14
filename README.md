@@ -12,7 +12,7 @@
 
 1. 任意のディレクトリでリポジトリの取得
 ```
-$ git clone git@github.com:YUDAI0910/project-api.git
+$ git clone git@github.com:YUDAI0910/kadai-api.git
 ```
 
 2. railsの動作に必要なgemをインストール
