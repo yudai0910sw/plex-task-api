@@ -26,6 +26,7 @@ project-api/config/database.yml内のDB接続情報を環境に合わせて設�
 設定する場所は以下の二つ
 - user(PostgreSQLのユーザー名)
 - password(ユーザーのパスワード)
+- database(作成したデータベース名)
 
 5. apiの起動
 ※フロント側とは別のターミナルを開いて実行
