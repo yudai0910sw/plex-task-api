@@ -23,7 +23,7 @@ $ bundle install
 
 3. apiのDB接続情報の設定  
 project-api/config/database.yml内のDB接続情報を環境に合わせて設定する。  
-設定する場所は以下の二つ
+設定する場所は以下の  三つ
 - user(PostgreSQLのユーザー名)
 - password(ユーザーのパスワード)
 - database(作成したデータベース名)
