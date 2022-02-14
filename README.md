@@ -17,12 +17,12 @@ $ git clone git@github.com:YUDAI0910/kadai-api.git
 
 2. railsの動作に必要なgemをインストール
 ```
-$ cd project-api
+$ cd kadai-api
 $ bundle install
 ```
 
 3. apiのDB接続情報の設定  
-project-api/config/database.yml内のDB接続情報を環境に合わせて設定する。  
+kadai-api/config/database.yml内のDB接続情報を環境に合わせて設定する。  
 設定する場所は以下の  三つ
 - user(PostgreSQLのユーザー名)
 - password(ユーザーのパスワード)
@@ -31,7 +31,7 @@ project-api/config/database.yml内のDB接続情報を環境に合わせて設�
 5. apiの起動
 ※フロント側とは別のターミナルを開いて実行
 ```
-$ cd project-api
+$ cd kadai-api
 $ rails s
 ```
 
