@@ -1,5 +1,5 @@
 # 株式会社プレックスのインターン課題
-# 制作環境
+## 制作環境
 
 |名前|バージョン|役割|
 |---|---|---|
@@ -7,7 +7,7 @@
 |Ruby on rails|Ruby2.6.2 Rails6.1.4.6|バックエンド|
 |PostgreSQL|---|データベース|
 
-# 実際に動作を確認する
+## 実際に動作を確認する
 動作させるにはrubyをインストールした環境が必要。
 環境が用意できたら下記手順を実行
 
@@ -40,11 +40,11 @@ $ rails s
 [http://localhost:3000/](http://localhost:3000/)にアクセス
 これでrailsの動作を確認できる。
 
-# 苦労した点
+## 苦労した点
 ・APIについての理解
 ・Graphqlの使い方
 
-# バックエンド側で参考にした記事
+## バックエンド側で参考にした記事
 https://zenn.dev/taku1115/articles/6c9fa97ab37e38
 https://qiita.com/krtsato/items/4565051608a63f11b316
 https://nakatanorihito.com/programming/docker-rails-postgresql/
